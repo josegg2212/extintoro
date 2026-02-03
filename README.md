@@ -2,7 +2,7 @@
 
 EXTINTORO es un proyecto para el robot **DJI RoboMaster S1** que integra **patrulla**, **detección de fuego** (visión artificial) y **actuación** mediante una **máquina de estados**.
 
-Repositorio (rama de entrega): https://github.com/josegg2212/extintoro.git  *(branch: `develop`)*
+Repositorio: https://github.com/josegg2212/extintoro.git 
 
 ---
 
@@ -43,8 +43,6 @@ Repositorio (rama de entrega): https://github.com/josegg2212/extintoro.git  *(br
 
 ```bash
 git clone https://github.com/josegg2212/extintoro.git
-cd extintoro
-git checkout develop
 ```
 
 2) Crear entorno virtual e instalar dependencias:
