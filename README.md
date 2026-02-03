@@ -9,7 +9,7 @@ Repositorio (rama de entrega): https://github.com/josegg2212/extintoro.git  *(br
 ## Estructura del repositorio
 
 - **`extintoro.py`**  
-  Script principal con **toda la lógica de la máquina de estados** (patrulla / searching / aiming / shooting) y el control por **emulación de teclado/ratón** para operar la app.
+  Script principal con **toda la lógica de la máquina de estados** (patrulla / searching / aiming / shooting) y el control por **emulación de teclado/ratón** para operar la app (ejecutar como administrador).
 
 - **`fire_model.pt`**  
   Modelo YOLO entrenado para **detección de fuego** (pesos finales usados por `extintoro.py`).
